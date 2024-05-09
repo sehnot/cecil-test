@@ -12,3 +12,5 @@ Demo: <https://sehnot.github.io/cecil-test/>
 Das ist ein Test
 
 Scheint echt gut zu funktionieren
+
+Jede Änderung wird automatisch die Website auf Github Pages updaten, siehe Konfiguration in .github/workflows/website.yml
